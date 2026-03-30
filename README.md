@@ -12,7 +12,7 @@
 
 ---
 
-### 👋 Hi, I'm Nelson Ong
+Hello, Nelson here.
 
 I'm a software engineer with more than 10 years of experience in different front-end and back-end technologies. I build production-ready SaaS products from idea to deployment.
 

@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/nelson-ong-97">
-    <img src="https://github.com/nelson-ong-97/nelson-ong-97/raw/main/github-metrics.svg?v=3" alt="Metrics" />
+    <img src="https://github.com/nelson-ong-97/nelson-ong-97/raw/main/github-metrics.svg?v=4" alt="Metrics" />
   </a>
 </p>
 

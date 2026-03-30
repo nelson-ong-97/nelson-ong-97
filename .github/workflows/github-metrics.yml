@@ -20,28 +20,12 @@ jobs:
           # Include private contributions in the counts
           base_indepth: yes
 
-          # Languages — detailed breakdown with percentages
-          plugin_languages: yes
-          plugin_languages_details: percentage, bytes-size
-          plugin_languages_ignored: >-
-            html, css, less, dockerfile, makefile, shell
-          plugin_languages_limit: 8
-
-          # Isometric commit calendar — 3D calendar with streaks + commits per day
+          # Isometric commit calendar — full year with streaks + commits per day
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
           # Lines of code changed
           plugin_lines: yes
-
-          # Follow-up on issues/PRs
-          plugin_followup: yes
-          plugin_followup_sections: repositories
-
-          # Starred topics — tech icons
-          plugin_topics: yes
-          plugin_topics_limit: 15
-          plugin_topics_mode: icons
 
           # Timezone
           config_timezone: Asia/Ho_Chi_Minh

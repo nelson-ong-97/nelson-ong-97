@@ -1,4 +1,4 @@
-[![Metrics](https://github.com/nelson-ong-97/nelson-ong-97/raw/main/github-metrics.svg)](https://github.com/nelson-ong-97)
+[![Metrics](https://github.com/nelson-ong-97/nelson-ong-97/raw/main/github-metrics.svg?v=2)](https://github.com/nelson-ong-97)
 
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,nestjs,postgres,redis,prisma,aws,vercel,supabase,docker,git,github&perline=8)](https://skillicons.dev)
 

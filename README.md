@@ -1,6 +1,14 @@
-[![Metrics](https://github.com/nelson-ong-97/nelson-ong-97/raw/main/github-metrics.svg?v=2)](https://github.com/nelson-ong-97)
+<p align="center">
+  <a href="https://github.com/nelson-ong-97">
+    <img src="https://github.com/nelson-ong-97/nelson-ong-97/raw/main/github-metrics.svg?v=3" alt="Metrics" />
+  </a>
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,nestjs,postgres,redis,prisma,aws,vercel,supabase,docker,git,github&perline=8)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,nestjs,postgres,redis,prisma,aws,vercel,supabase,docker,git,github&perline=8" alt="My Skills" />
+  </a>
+</p>
 
 ---
 

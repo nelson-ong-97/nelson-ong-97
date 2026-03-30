@@ -20,9 +20,20 @@ jobs:
           # Include private contributions in the counts
           base_indepth: yes
 
-          # Isometric commit calendar — full year with streaks + commits per day
+          # Languages — detailed breakdown with percentages
+          plugin_languages: yes
+          plugin_languages_details: percentage, bytes-size
+          plugin_languages_ignored: >-
+            html, css, less, dockerfile, makefile, shell
+          plugin_languages_limit: 8
+
+          # Isometric commit calendar — full year 3D view
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+
+          # Contribution calendar — flat yearly heatmaps (full history)
+          plugin_calendar: yes
+          plugin_calendar_limit: 0
 
           # Lines of code changed
           plugin_lines: yes

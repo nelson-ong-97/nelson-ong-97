@@ -14,5 +14,5 @@
 
 Hello, Nelson here, a software engineer with more than 10 years of experience in different front-end and back-end technologies. I build production-ready SaaS products from idea to deployment.
 
-🏅 [AWS Certified Developer - Associate](https://www.credly.com/badges/7b727ce8-d42a-4814-b471-1f98dc7c1922)
+🏅 [AWS Certified Developer - Associate](https://www.credly.com/badges/7b727ce8-d42a-4814-b471-1f98dc7c1922) \n
 🏅 [AWS Solution Architect - Associate](https://www.credly.com/badges/04d81357-895c-4e90-96d5-24afe0a657cd)
